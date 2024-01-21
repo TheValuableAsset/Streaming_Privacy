@@ -31,4 +31,4 @@ Notes:
 
 First and foremost, this application is written in Rainmeter's own programming language. You must download Rainmeter and place it on your screen in order for it to work. This is a skin, so please install rainmeter.exe FIRST from rainmeter.net, and THEN download the .rmskin and run it.
 
-.rmskin file is located in the *build* folder. If you prefer doing it manually, download the source code and load the Stocks folder inside Rainmeter.
+.rmskin file is located in the *build* folder. If you prefer doing it manually, download the source code and load the Streaming folder inside Rainmeter located in your Documents folder.
